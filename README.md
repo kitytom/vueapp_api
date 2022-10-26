@@ -1,3 +1,8 @@
+
+# 移动端app接口
+# nodejs 开发
+
+
 1、适配方案
 在本项目中我所使用的vue移动方案是使用amfe-flexible 和 postcss-pxtorem 结合）的方式。
 首先介绍一下amfe-flexible
